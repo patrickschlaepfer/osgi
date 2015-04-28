@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: Service
+Bundle-SymbolicName: com.schlaepfer.e4.rcp.todo.osgiservice
+Bundle-Version: 1.0.0.qualifier
+Bundle-Vendor: EXAMPLE
+Bundle-RequiredExecutionEnvironment: JavaSE-1.8
+Require-Bundle: com.schlaepfer.e4.rcp.todo.model;bundle-version="1.0.0"
+Export-Package: com.schlaepfer.e4.rcp.todo.service
